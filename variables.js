@@ -11,7 +11,7 @@ module.exports= {
 	g+: "",
 	youtube: "",
 	twitter: "",
-	logo: "http://bhanuc.github.io/re-1/img/logo_1.jpg",
+	logo: "http://bhanuc.github.io/re-1/img/Salarpuria-Sattva-LOGO.jpg",
 	Backlinks: {"link A": "linkaurl", "link B": "linkburl", "link C": "linkcurl" },
 	Content: {
 	home: {
